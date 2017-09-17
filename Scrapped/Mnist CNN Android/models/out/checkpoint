@@ -1,0 +1,2 @@
+model_checkpoint_path: "mnist_covnet.chkp"
+all_model_checkpoint_paths: "mnist_covnet.chkp"
